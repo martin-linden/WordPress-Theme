@@ -22,3 +22,8 @@ function awesome_theme_setup() {
 //execute function after theme setup is done
 
 add_action('init', 'awesome_theme_setup');
+
+//activate specific functionality
+add_theme_support('custom-background');
+add_theme_support('custom-header');
+add_theme_support('post-thumbnails');
