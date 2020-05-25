@@ -2,8 +2,8 @@
     <html>
     <head>
     <meta charset="utf-8">
-    <title>Hellorewrtfwefoooooo</title>
-    <h3>hduehduheudheu<h3>
+    <title>Martins WordPress Theme</title>
+   <?php wp_head(); ?>
 
 
 </head>
